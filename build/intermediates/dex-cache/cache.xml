@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_842102f646c4ea9d4d42a4f08d50a3d5fbdb5068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_61326673a4e83c1aa542c25319aebc89b05033a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_8b46e1f387e4e0046b38fa6ed3350f93ea2f895c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_730cc7fef3471195bf1da8066a25dced450cd37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_5c433e7ed0065592d08fcf043e62f43f1d632f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_1406704cfdeb730e149d0f18d7d893c5c64d5c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_687e0fd25ce2a548d3a7b69d35e6c8378d0245d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Megha\AndroidStudioProjects\Notes\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_0d15cd9c090841d94f5812c509458a16065d7c02.jar" />
+    </item>
+
+</items>
